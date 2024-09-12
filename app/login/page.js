@@ -1,4 +1,3 @@
-import { title } from 'process';
 import SignInButton from '../_components/SignInButton';
 
 export const metadata = {
